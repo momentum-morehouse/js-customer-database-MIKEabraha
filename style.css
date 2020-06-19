@@ -17,12 +17,12 @@ text-align: left;
 }
 
 
-#customer{
+#customer-list{
  display: flex; 
  flex-flow: row wrap;
 
- width: 500px;
- height: 3500px;
+ width: 3000px;
+
  border: red 2px solid;
  text-align: center;
 position: absolute;
